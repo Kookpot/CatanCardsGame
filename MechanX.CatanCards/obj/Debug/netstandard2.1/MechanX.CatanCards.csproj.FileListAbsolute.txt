@@ -1,0 +1,13 @@
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.AssemblyInfoInputs.cache
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.AssemblyInfo.cs
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.csproj.CoreCompileInputs.cache
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\bin\Debug\netstandard2.1\MechanX.CatanCards.deps.json
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\bin\Debug\netstandard2.1\MechanX.CatanCards.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\bin\Debug\netstandard2.1\MechanX.CatanCards.pdb
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\bin\Debug\netstandard2.1\MechanX.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\bin\Debug\netstandard2.1\MechanX.pdb
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.csproj.AssemblyReference.cache
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.csproj.CopyComplete
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX.CatanCards\obj\Debug\netstandard2.1\MechanX.CatanCards.pdb

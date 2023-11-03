@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BEACE8C0-6945-CFA9-1D71-1C11A2B88B1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MechanX", "MechanX\MechanX.csproj", "{190AAFF4-7FEB-46C8-A440-41EDFECE05B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MechanX.CatanCards", "MechanX.CatanCards\MechanX.CatanCards.csproj", "{8AAA5EF8-95A3-48FB-9672-5BCF45D909BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEACE8C0-6945-CFA9-1D71-1C11A2B88B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACE8C0-6945-CFA9-1D71-1C11A2B88B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACE8C0-6945-CFA9-1D71-1C11A2B88B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACE8C0-6945-CFA9-1D71-1C11A2B88B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190AAFF4-7FEB-46C8-A440-41EDFECE05B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190AAFF4-7FEB-46C8-A440-41EDFECE05B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190AAFF4-7FEB-46C8-A440-41EDFECE05B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190AAFF4-7FEB-46C8-A440-41EDFECE05B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAA5EF8-95A3-48FB-9672-5BCF45D909BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAA5EF8-95A3-48FB-9672-5BCF45D909BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAA5EF8-95A3-48FB-9672-5BCF45D909BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAA5EF8-95A3-48FB-9672-5BCF45D909BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

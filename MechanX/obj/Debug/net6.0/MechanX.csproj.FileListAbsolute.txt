@@ -1,0 +1,11 @@
+C:\Users\Leechking\source\repos\MechanX2\MechanX\bin\Debug\net6.0\MechanX.deps.json
+C:\Users\Leechking\source\repos\MechanX2\MechanX\bin\Debug\net6.0\MechanX.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX\bin\Debug\net6.0\MechanX.pdb
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.AssemblyInfoInputs.cache
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.AssemblyInfo.cs
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.csproj.CoreCompileInputs.cache
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\refint\MechanX.dll
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\MechanX.pdb
+C:\Users\Leechking\source\repos\MechanX2\MechanX\obj\Debug\net6.0\ref\MechanX.dll
